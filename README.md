@@ -29,7 +29,9 @@ https://devshowcase-api-equipe.onrender.com/swagger-ui/index.html
 ## Equipe
 
 **EDEN LUSTOSA NOGUEIRA**
+
 **MARLY AMORIM DA SILVA NOGUEIRA**
+
 **CLÁUDIA AMORIM DA SILVA**
 
 ## Repositório
